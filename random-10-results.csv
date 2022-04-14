@@ -1,0 +1,11 @@
+,total rows in dataset,time taken,number of Null values in appended to the dataset,number of values not present in the table 'recording',number of values not present niether in the table 'recording' nor in 'redirect',"num of values niether in recording, nor redirect, nor track",number of track-MBIDs in the recording-MBID column,num of broken MBIDs =,num of non-canonical IDs found in recording-mbid table
+0,102752,2min,25591,2147,56,56,0,56,1568
+1,20652,12.4s,6048,1873,23,23,0,23,1392
+2,22931,2min 48s,7473,2496,16,16,0,16,2706
+3,23309,1min 19s,7546,1429,16,16,0,16,1867
+4,75334,3min 20s,19293,2672,53,53,0,53,4057
+5,60944,1min 54s,20462,2982,17,17,0,17,4009
+6,9327,0min 14s,2145,389,1,1,0,1,261
+7,47740,1min 33s,15228,2761,13,13,0,13,3023
+8,8991,0min 18.4s,2331,642,7,7,0,7,571
+9,10694,0min 19.6s,2450,827,6,6,0,6,886
